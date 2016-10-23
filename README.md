@@ -13,3 +13,10 @@ ajax({
 	'error':function(){}
 });
 ```
+
+代码内容：
+
+
+
+
+https://yuri2.github.io/ajax-encapsulation/aja.js
