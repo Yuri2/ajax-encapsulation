@@ -3,7 +3,7 @@
 发下是调用格式：
 // ajax调 用 内 容 格 式。。。
 
-
+```
 ajax({
 	'method':'post',
 	'url':'abc.php',
@@ -12,3 +12,4 @@ ajax({
 	'success':function(){},
 	'error':function(){}
 	});
+	```
