@@ -11,5 +11,5 @@ ajax({
 	'data':'123456',
 	'success':function(){},
 	'error':function(){}
-	});
-	```
+});
+```
