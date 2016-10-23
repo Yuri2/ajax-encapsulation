@@ -1,3 +1,4 @@
+//作者：一陀牛屎
 function ajax(ajson){
 	var xhr=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject('Microsoft.XMLHTTP');	
 	var method=ajson.method||'get',
